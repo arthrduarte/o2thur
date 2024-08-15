@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been around computers since very young and my first memories are playing Age of Empires II with my dad<br>📚 I'm currently learning and improving my JavaScript skills<br>🎯 My professional goal is to bring the blockchain technology to new environments every year</p>
+<p align="left">✨ I've been around computers since very young and my first memories are playing Age of Empires II with my dad<br>📚 I'm currently learning and improving my JavaScript skills</p>
 
 ###
 
@@ -30,6 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
